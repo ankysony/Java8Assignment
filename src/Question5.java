@@ -6,11 +6,13 @@ class Employee {
     String ename;
     Integer salary;
     Integer age;
+    String department;
 
-    public Employee(String ename, Integer salary, Integer age) {
+    public Employee(String ename, Integer salary, Integer age, String department) {
         this.ename = ename;
         this.salary = salary;
         this.age = age;
+        this.department = department;
     }
 
     public Employee() {
@@ -40,12 +42,21 @@ class Employee {
         this.salary = salary;
     }
 
+    public String getDepartment() {
+        return department;
+    }
+
+    public void setDepartment(String department) {
+        this.department = department;
+    }
+
     @Override
     public String toString() {
         return "Employee{" +
                 "ename='" + ename + '\'' +
                 ", salary=" + salary +
                 ", age=" + age +
+                ", department='" + department + '\'' +
                 '}';
     }
 }
@@ -53,11 +64,11 @@ public class Question5 {
     public static void main(String[] args) {
 
         List<Employee> ll = new ArrayList<>();
-        Employee e1 = new Employee("Ankit", 22000, 27);
-        Employee e2 = new Employee("Shreya", 40000, 25);
-        Employee e3 = new Employee("Shubham", 80000, 31);
-        Employee e4 = new Employee("Neeraj", 17000, 22);
-        Employee e5 = new Employee("kamlesh", 90000, 35);
+        Employee e1 = new Employee("Ankit", 22000, 27, "IT");
+        Employee e2 = new Employee("Shreya", 40000, 25,"HR");
+        Employee e3 = new Employee("Shubham", 80000, 31,"IT");
+        Employee e4 = new Employee("Neeraj", 17000, 22, "HR");
+        Employee e5 = new Employee("kamlesh", 90000, 35,"BCM");
 
         ll.add(e1);
         ll.add(e2);

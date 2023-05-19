@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="31e49eba-8528-4739-b440-f042765b494b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Question4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Question5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Question6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Question5.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +38,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Question5">
+  <component name="RunManager" selected="Application.Question6">
     <configuration name="Question2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Question2" />
       <module name="Java8Assignment" />
@@ -67,8 +67,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Question6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Question6" />
+      <module name="Java8Assignment" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Question6" />
         <item itemvalue="Application.Question5" />
         <item itemvalue="Application.Question4" />
         <item itemvalue="Application.Question3" />
