@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="31e49eba-8528-4739-b440-f042765b494b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Question6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Question8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Question9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Question5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Question5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Question7.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,28 +39,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Question6">
-    <configuration name="Question2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Question2" />
-      <module name="Java8Assignment" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Question3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Question3" />
-      <module name="Java8Assignment" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Question4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Question4" />
-      <module name="Java8Assignment" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Question9">
     <configuration name="Question5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Question5" />
       <module name="Java8Assignment" />
@@ -74,13 +54,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Question7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Question7" />
+      <module name="Java8Assignment" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Question8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Question8" />
+      <module name="Java8Assignment" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Question9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Question9" />
+      <module name="Java8Assignment" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Question9" />
+        <item itemvalue="Application.Question8" />
+        <item itemvalue="Application.Question7" />
         <item itemvalue="Application.Question6" />
         <item itemvalue="Application.Question5" />
-        <item itemvalue="Application.Question4" />
-        <item itemvalue="Application.Question3" />
-        <item itemvalue="Application.Question2" />
       </list>
     </recent_temporary>
   </component>
