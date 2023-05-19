@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="31e49eba-8528-4739-b440-f042765b494b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Question3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Question4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Question5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +38,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Question3">
+  <component name="RunManager" selected="Application.Question5">
     <configuration name="Question2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Question2" />
       <module name="Java8Assignment" />
@@ -51,8 +53,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Question4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Question4" />
+      <module name="Java8Assignment" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Question5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Question5" />
+      <module name="Java8Assignment" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Question5" />
+        <item itemvalue="Application.Question4" />
         <item itemvalue="Application.Question3" />
         <item itemvalue="Application.Question2" />
       </list>
@@ -68,5 +86,16 @@
       <updated>1684482060932</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
